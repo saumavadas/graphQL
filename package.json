@@ -1,0 +1,17 @@
+{
+  "name": "graphQL",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Saumava Das",
+  "license": "ISC",
+  "dependencies": {
+    "graphql-yoga": "^1.17.4",
+    "lodash": "^4.17.11",
+    "mongoose": "^5.5.4"
+  }
+}
